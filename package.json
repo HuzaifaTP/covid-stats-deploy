@@ -1,6 +1,6 @@
 {
   "name": "covid-app",
-  "homepage": "https://huzaifatp.github.io/covid-app", 
+  "homepage": "https://huzaifatp.github.io/covid-stats-deploy", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
